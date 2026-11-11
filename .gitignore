@@ -1,0 +1,9 @@
+node_modules/
+runtime/
+.env
+.env.*
+*.pem
+*.key
+*.token
+*.credentials
+.DS_Store

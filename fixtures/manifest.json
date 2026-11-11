@@ -1,0 +1,27 @@
+[
+  {
+    "file": "disclosure-1900.xlsx",
+    "bytes": 2320,
+    "sha256": "6e336a888fd9bb785d21b0128019c1731843842d2aea25da024aa61df5badb38"
+  },
+  {
+    "file": "disclosure-1904.xlsx",
+    "bytes": 2318,
+    "sha256": "d65efa564ffa8763e12b1c3278da604bf5ae3780d6ea4f728871ba054d0e56e5"
+  },
+  {
+    "file": "recalculate.xlsx",
+    "bytes": 2319,
+    "sha256": "40e96a1aaec704a806c7f6cca14c5504549c443130fc1f095602bc10c6862874"
+  },
+  {
+    "file": "truncated.xlsx.bin",
+    "bytes": 2303,
+    "sha256": "95aa2544604a98428a9a0531697740ce9ab8aade050683b9474b88db7e333796"
+  },
+  {
+    "file": "mapping.json",
+    "bytes": 396,
+    "sha256": "58fa9c02747d693666b836dc58e137ed32aa79dd781d5af46379ef0fef8c4abe"
+  }
+]

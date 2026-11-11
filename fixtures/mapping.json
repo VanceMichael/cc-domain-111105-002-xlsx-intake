@@ -1,0 +1,25 @@
+{
+  "version": "water-v1",
+  "sheet": "披露表",
+  "range": "A2:E4",
+  "columns": {
+    "A": {
+      "name": "issuer",
+      "kind": "text",
+      "group": true
+    },
+    "B": {
+      "name": "reference",
+      "kind": "identifier"
+    },
+    "D": {
+      "name": "water",
+      "kind": "decimal",
+      "scale": "1000"
+    },
+    "E": {
+      "name": "date",
+      "kind": "date"
+    }
+  }
+}
